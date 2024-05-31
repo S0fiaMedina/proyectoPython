@@ -1,0 +1,116 @@
+{
+    "1": {
+        "Nombre": "Ruta Netcore",
+        "Transversales": {
+            "01": {
+                "Nombre": "Fundamentos de programacion",
+                "temas": {
+                    "Tema1": "Algoritmia",
+                    "Tema 2": "Pseint",
+                    "Tema 3": "Python"
+                }
+            },
+            "02": {
+                "Nombre": "Programacion web",
+                "temas": {
+                    "Tema1": "HTML",
+                    "Tema 2": "CSS",
+                    "Tema 3": "JavaScript"
+                }
+            },
+            "Avanzadas": {
+                "1": {
+                    "Nombre": "Programaci\u00f3n formal",
+                    "Temas": "C#"
+                },
+                "2": {
+                    "Nombre": "Bases de datos",
+                    "Temas": {
+                        "SGBD_Principal": "Mysql",
+                        "SGBD_Alternativa": "Postgresql"
+                    }
+                },
+                "3": {
+                    "Nombre": "Backend",
+                    "Temas": "NetCore"
+                }
+            }
+        }
+    },
+    "2": {
+        "Nombre": "Ruta Java",
+        "Transversales": {
+            "01": {
+                "Nombre": "Fundamentos de programacion",
+                "temas": {
+                    "Tema1": "Algoritmia",
+                    "Tema 2": "Pseint",
+                    "Tema 3": "Python"
+                }
+            },
+            "02": {
+                "Nombre": "Programacion web",
+                "temas": {
+                    "Tema1": "HTML",
+                    "Tema 2": "CSS",
+                    "Tema 3": "JavaScript"
+                }
+            },
+            "Avanzadas": {
+                "1": {
+                    "Nombre": "Programaci\u00f3n formal",
+                    "Temas": "Java"
+                },
+                "2": {
+                    "Nombre": "Bases de datos",
+                    "Temas": {
+                        "SGBD_Principal": "Postgresql",
+                        "SGBD_Alternativa": "MongoDb"
+                    }
+                },
+                "3": {
+                    "Nombre": "Backend",
+                    "Temas": "Spring Boot"
+                }
+            }
+        }
+    },
+    "3": {
+        "Nombre": "Ruta NodeJS",
+        "Transversales": {
+            "01": {
+                "Nombre": "Fundamentos de programacion",
+                "temas": {
+                    "Tema1": "Algoritmia",
+                    "Tema 2": "Pseint",
+                    "Tema 3": "Python"
+                }
+            },
+            "02": {
+                "Nombre": "Programacion web",
+                "temas": {
+                    "Tema1": "HTML",
+                    "Tema 2": "CSS",
+                    "Tema 3": "JavaScript"
+                }
+            },
+            "Avanzadas": {
+                "1": {
+                    "Nombre": "Programaci\u00f3n formal",
+                    "Temas": "JavaScript"
+                },
+                "2": {
+                    "Nombre": "Bases de datos",
+                    "Temas": {
+                        "SGBD_Principal": "MongoDb",
+                        "SGBD_Alternativa": "Mysql"
+                    }
+                },
+                "3": {
+                    "Nombre": "Backend",
+                    "Temas": "NodeJS"
+                }
+            }
+        }
+    }
+}

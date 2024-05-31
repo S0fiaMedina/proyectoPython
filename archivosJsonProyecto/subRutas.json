@@ -1,0 +1,32 @@
+{
+    "1":{
+        "Id ruta": "1",
+        "Temas":["Introducción a la algoritmia", "Pseint", "Python"],
+        "Nombre": "Fundamentos de programación",
+        "Tipo": "Transversal"  
+        },
+    "2":{
+        "Id ruta": "2",
+        "Temas":["HTML","CSS","Boostrap"],
+        "Nombre": "Programación Web",
+        "Tipo": "Transversal"
+        },
+    "3":{
+        "Id ruta": "3",
+        "Temas":["Java", "JavaScript","C#"],
+        "Nombre":"Programación formal",
+        "Tipo": "Avanzada"
+    }, 
+    "4":{
+        "Id ruta": "4",
+        "Temas":["MySQL", "MongoDB", "Postgresql"],
+        "Nombre":"Bases de datos",
+        "Tipo":"Avanzada"
+    },
+    "5": {
+        "Id ruta": "5",
+        "Temas":["Netcore", "Spring Boot", "NodeJS", "Express JS"],
+        "Nombre":"Backend",
+        "Tipo":"Avanzada"
+    }
+}

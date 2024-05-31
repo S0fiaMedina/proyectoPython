@@ -1,0 +1,36 @@
+{
+    "1090": {
+        "Nombre": "Sofia Medina",
+        "Direccion": "wqewq",
+        "Edad": 17,
+        "Telefonos": {
+            "Fijo": [
+                123213
+            ],
+            "Celular": [
+                332132
+            ]
+        },
+        "Acudiente": {
+            "Nombre": "Silvia Diaz",
+            "Numero de contacto": 123213
+        },
+        "Estado": "Inscrito"
+    },
+    "1070": {
+        "Nombre": "Liliana Castellanos",
+        "Direccion": "asdsa",
+        "Edad": 24,
+        "Telefonos": {
+            "Fijo": [],
+            "Celular": [
+                213213123
+            ]
+        },
+        "Acudiente": {
+            "Nombre": "Maria castellanos",
+            "Numero de contacto": 1321312
+        },
+        "Estado": "Inscrito"
+    }
+}
